@@ -1,0 +1,10 @@
+/Users/dhananjayjoshi/Documents/GitHub/Rust/hello_world/target/sbf-solana-solana/release/deps/libthiserror-7bd61db1633a31c4.rmeta: /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/lib.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/aserror.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/display.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/provide.rs
+
+/Users/dhananjayjoshi/Documents/GitHub/Rust/hello_world/target/sbf-solana-solana/release/deps/libthiserror-7bd61db1633a31c4.rlib: /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/lib.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/aserror.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/display.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/provide.rs
+
+/Users/dhananjayjoshi/Documents/GitHub/Rust/hello_world/target/sbf-solana-solana/release/deps/thiserror-7bd61db1633a31c4.d: /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/lib.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/aserror.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/display.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/provide.rs
+
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/lib.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/aserror.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/display.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/provide.rs:

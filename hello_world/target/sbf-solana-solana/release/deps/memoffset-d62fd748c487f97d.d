@@ -1,0 +1,10 @@
+/Users/dhananjayjoshi/Documents/GitHub/Rust/hello_world/target/sbf-solana-solana/release/deps/libmemoffset-d62fd748c487f97d.rmeta: /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/lib.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/raw_field.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/offset_of.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/span_of.rs
+
+/Users/dhananjayjoshi/Documents/GitHub/Rust/hello_world/target/sbf-solana-solana/release/deps/libmemoffset-d62fd748c487f97d.rlib: /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/lib.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/raw_field.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/offset_of.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/span_of.rs
+
+/Users/dhananjayjoshi/Documents/GitHub/Rust/hello_world/target/sbf-solana-solana/release/deps/memoffset-d62fd748c487f97d.d: /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/lib.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/raw_field.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/offset_of.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/span_of.rs
+
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/lib.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/raw_field.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/offset_of.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/span_of.rs:
