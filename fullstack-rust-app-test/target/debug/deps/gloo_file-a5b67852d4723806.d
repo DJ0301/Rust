@@ -1,0 +1,9 @@
+/Users/dhananjayjoshi/Documents/GitHub/fullstack-rust-app/target/debug/deps/libgloo_file-a5b67852d4723806.rmeta: /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/lib.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/blob.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/file_list.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/file_reader.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/object_url.rs
+
+/Users/dhananjayjoshi/Documents/GitHub/fullstack-rust-app/target/debug/deps/gloo_file-a5b67852d4723806.d: /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/lib.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/blob.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/file_list.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/file_reader.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/object_url.rs
+
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/lib.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/blob.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/file_list.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/file_reader.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/object_url.rs:

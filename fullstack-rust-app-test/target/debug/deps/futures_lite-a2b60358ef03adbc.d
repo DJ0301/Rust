@@ -1,0 +1,9 @@
+/Users/dhananjayjoshi/Documents/GitHub/fullstack-rust-app/target/debug/deps/libfutures_lite-a2b60358ef03adbc.rmeta: /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.12.0/src/lib.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.12.0/src/future.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.12.0/src/prelude.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.12.0/src/stream.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.12.0/src/io.rs
+
+/Users/dhananjayjoshi/Documents/GitHub/fullstack-rust-app/target/debug/deps/futures_lite-a2b60358ef03adbc.d: /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.12.0/src/lib.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.12.0/src/future.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.12.0/src/prelude.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.12.0/src/stream.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.12.0/src/io.rs
+
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.12.0/src/lib.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.12.0/src/future.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.12.0/src/prelude.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.12.0/src/stream.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.12.0/src/io.rs:

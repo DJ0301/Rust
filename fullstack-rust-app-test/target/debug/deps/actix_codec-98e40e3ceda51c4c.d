@@ -1,0 +1,10 @@
+/Users/dhananjayjoshi/Documents/GitHub/fullstack-rust-app/target/debug/deps/libactix_codec-98e40e3ceda51c4c.rmeta: /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.0/src/lib.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.0/src/bcodec.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.0/src/framed.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.0/src/lines.rs
+
+/Users/dhananjayjoshi/Documents/GitHub/fullstack-rust-app/target/debug/deps/libactix_codec-98e40e3ceda51c4c.rlib: /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.0/src/lib.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.0/src/bcodec.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.0/src/framed.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.0/src/lines.rs
+
+/Users/dhananjayjoshi/Documents/GitHub/fullstack-rust-app/target/debug/deps/actix_codec-98e40e3ceda51c4c.d: /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.0/src/lib.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.0/src/bcodec.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.0/src/framed.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.0/src/lines.rs
+
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.0/src/lib.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.0/src/bcodec.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.0/src/framed.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.5.0/src/lines.rs:

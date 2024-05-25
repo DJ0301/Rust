@@ -1,0 +1,10 @@
+/Users/dhananjayjoshi/Documents/GitHub/fullstack-rust-app/target/debug/deps/libsqlformat-86f4bfaf5f541ccf.rmeta: /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/lib.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/formatter.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/indentation.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/inline_block.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/params.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/tokenizer.rs
+
+/Users/dhananjayjoshi/Documents/GitHub/fullstack-rust-app/target/debug/deps/sqlformat-86f4bfaf5f541ccf.d: /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/lib.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/formatter.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/indentation.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/inline_block.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/params.rs /Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/tokenizer.rs
+
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/lib.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/formatter.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/indentation.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/inline_block.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/params.rs:
+/Users/dhananjayjoshi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/tokenizer.rs:
